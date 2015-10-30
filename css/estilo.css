@@ -5,8 +5,8 @@
 }
 body { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif }
 .blended_grid {
-	max-width:1625px;
-	min-width:1420px;
+    max-width:1625px;
+    min-width:1420px;
     display : block;
     overflow : auto;
     margin : 100px auto 0 auto;
@@ -163,22 +163,18 @@ body { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Deja
 }
 .footer {
     margin : 0 auto;
-text-align:center;
+    text-align:center;
     height : 500px;
     width : 100%;
-
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #426d9c), color-stop(40%, #0f67a1), color-stop(100%, #1384d1));
     background: -moz-linear-gradient(top, #426d9c, #0f67a1, #1384d1);
     color: #FFFFFF;
-
 }
 
 .footer-izquierda {
-	float: left;
+    float: left;
     width: 33.3%;
     height: 280px;
- 
-    
 }
 
 .footer-centro {
@@ -194,7 +190,7 @@ text-align:center;
  
 }
 .debajo {
-clear:both;
+    clear:both;
     width: 100%;
     height: 220px;
     float: left;
