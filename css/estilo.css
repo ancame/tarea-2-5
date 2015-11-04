@@ -159,7 +159,7 @@ body { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Deja
 }
 .centerBanner ul li {
     margin-top: 13px;
-    list-style-image: url("images/rosca.png");
+    list-style-image: url("/images/rosca.png");
 }
 .footer {
     margin : 0 auto;
@@ -170,13 +170,12 @@ body { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Deja
     background: -moz-linear-gradient(top, #426d9c, #0f67a1, #1384d1);
     color: #FFFFFF;
 }
-
 .footer-izquierda {
+    padding-top: 25px;
     float: left;
     width: 33.3%;
     height: 280px;
 }
-
 .footer-centro {
     width: 33.3%;
     height: 280px;
@@ -194,7 +193,6 @@ body { font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Deja
     width: 100%;
     height: 220px;
     float: left;
- 
 }
 .footer img {
     width: 210px;
